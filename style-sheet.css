@@ -1,3 +1,5 @@
+      @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
       body {background:rgb(33,33,33);padding-left:0px;padding-right:0px;}
       h1 {color:white;font-family:'Raleway',strong;font-size:95px;padding:10px;}
       h2 {color:teal;background:rgb(2,2,2);font-family:'Raleway',strong;font-size:55px;text-align:center;padding:60px;}
@@ -7,6 +9,6 @@
       img.left {float:left;padding-right:50px;padding-left:100px;}
       .links {padding:100px;}
       .A {padding:100px;}
-      #header {background:rgb(2,2,2);padding:5px;}
+      #header {background:rgb(255,2,2);padding:5px;}
       td {padding:20px;text-align:left;}
       li{text-align:center;}
